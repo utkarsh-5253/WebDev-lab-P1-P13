@@ -26,7 +26,7 @@ This repository contains the practical work for Programming for Web Development 
 - Git and GitHub
 
 ## Student
-Chandan Ganta  
+Utkarsh Chaudhary
 Bosscoder School of Technology
 
 ## Version
